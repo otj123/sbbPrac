@@ -12,7 +12,7 @@ import lombok.RequiredArgsConstructor;
 @RequiredArgsConstructor
 @Service
 public class QuestionService {
-		//test
+		//fetch
 
 		private final QuestionRepository questionRepository;
 		
